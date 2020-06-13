@@ -7,10 +7,10 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
-  - course: MEng in Advanced Analytics - BigData
+  - course: Masters Degree in Advanced Analytics - BigData
     institution: Warsaw School of Economics
     year: 2018
-  - course: BSc in Quantitative Methods in Economics 
+  - course: Bachelors Degree in Quantitative Methods in Economics 
     institution: Warsaw School of Economics 
     year: 2015
 email: ""
@@ -20,7 +20,7 @@ interests:
 - Skiing
 - Football
 organizations:
-- name: Stanford University
+- name: [] #Stanford University
   url: ""
 role: Supply Chain Analyst
 social:
