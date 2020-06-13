@@ -4,15 +4,15 @@ authors:
 bio: My interests include chess,volleyball,skiing,footbal.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  # - course: PhD in Artificial Intelligence
+  #   institution: Stanford University
+  #   year: 2012
+  - course: MEng in Advanced Analytics - BigData
+    institution: Warsaw School of Economics
+    year: 2018
+  - course: BSc in Quantitative Methods in Economics 
+    institution: Warsaw School of Economics 
+    year: 2015
 email: ""
 interests:
 - Chess
@@ -43,6 +43,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data analyst with practical experience in supply chain. I enjoy understanding, optimizing and automating processes. I believe in simplicity rather than complexity and try to learn new things whenever it is possible. Besides that, I try to follow the startups environment looking for fresh business ideas.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+If you would like to work with me on any project related to data science or one of my hobbies please feel free to contact me. 
