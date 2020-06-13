@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My interests include chess,volleyball,skiing,footbal.
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -16,13 +15,14 @@ education:
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Chess
+- Volleyball
+- Skiing
+- Football
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Supply Chain Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +37,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Michal S
 user_groups:
 - Researchers
 - Visitors
