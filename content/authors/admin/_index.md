@@ -20,7 +20,7 @@ interests:
 - Skiing
 - Football
 organizations:
-- name: [] #Stanford University
+- name:  #Stanford University
   url: ""
 role: Supply Chain Analyst
 social:
