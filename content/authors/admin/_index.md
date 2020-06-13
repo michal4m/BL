@@ -19,7 +19,7 @@ interests:
 - Volleyball
 - Skiing
 - Football
-organizations: []
+organizations:
 - name: Stanford University
   url: ""
 role: Supply Chain Analyst
