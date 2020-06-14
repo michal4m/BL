@@ -1,12 +1,10 @@
 ---
-title: What is this blog about, was finden Sie hier y por que estoy escribiendo eso?
-author: MS
-date: '2020-06-14'
+title: "What is this blog about, was finden Sie hier y por que estoy escribiendo eso?"
+author: "MS"
+date: 2020-06-14
 slug: what-is-this-blog-about-was-finden-sie-hier-y-por-que-estoy-escribiendo-eso
-categories:
-  - General
-tags:
-  - Other
+categories: ["General"]
+tags: ["Other"]
 summary: ''
 authors: []
 external_link: ''
