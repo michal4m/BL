@@ -77,6 +77,56 @@
     </item>
     
     <item>
+      <title>Tst</title>
+      <link>/post/tst/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/tst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tst2</title>
+      <link>/post/tst2/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/tst2/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Porque</title>
+      <link>/post/porque/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/porque/</guid>
+      <description>
+
+
+&lt;div id=&#34;second-test&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Second test&lt;/h1&gt;
+&lt;p&gt;Second test asd&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is this blog about, was finden Sie hier y por que estoy escribiendo eso?</title>
+      <link>/post/what-is-this-blog-about-was-finden-sie-hier-y-por-que-estoy-escribiendo-eso/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/what-is-this-blog-about-was-finden-sie-hier-y-por-que-estoy-escribiendo-eso/</guid>
+      <description>
+
+
+&lt;div id=&#34;test&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Test&lt;/h1&gt;
+&lt;p&gt;Test2&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -740,8 +790,9 @@ Three
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;ANOTHER TEST 2&lt;/p&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
 ##      speed           dist       
 ##  Min.   : 4.0   Min.   :  2.00  

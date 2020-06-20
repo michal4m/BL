@@ -34,7 +34,47 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-20T14:19:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tst/</loc>
+    <lastmod>2020-06-20T14:16:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tst2/</loc>
+    <lastmod>2020-06-20T14:19:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-14T20:45:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/general/</loc>
+    <lastmod>2020-06-14T20:45:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/other/</loc>
+    <lastmod>2020-06-14T20:45:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/porque/</loc>
+    <lastmod>2020-06-14T20:45:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-14T20:45:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-is-this-blog-about-was-finden-sie-hier-y-por-que-estoy-escribiendo-eso/</loc>
+    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,7 +103,7 @@
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>/author/michal-s/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -80,11 +120,6 @@
   <url>
     <loc>/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -144,11 +179,6 @@
   
   <url>
     <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
