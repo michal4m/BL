@@ -16,3 +16,82 @@ image:
   preview_only: no
 projects: []
 ---
+
+If you have never heared the term **data driven supply chain** don't worry - I will guide you throughout it, explaining each and every step. This is the begging of the longer series of posts where we will be setting up supply chain architecture completely from 0. 
+
+This series will be combining knowledge from economics, data science and supply chain management - covering those subjects altogether.
+
+Paradoxically the most important think in the supply chain is demand. *Demand chain* - Maslov pyramid (Microeceonomics). The driving forces 
+
+## What is supply chain?
+
+Supply and demand plotting: https://www.andrewheiss.com/blog/2017/09/15/create-supply-and-demand-economics-curves-with-ggplot2/
+
+## What does it mean to be data driven?
+
+https://en.wikipedia.org/wiki/Data-driven
+
+Data driven will mean something else for smaller and bigger organizations. 
+
+https://biznesmysli.pl/data-driven-organisation/
+
+
+Create here a survey - check how data driven is your organisation.
+
+## What is demand chain / value chain ?
+
+https://en.wikipedia.org/wiki/Demand_chain
+Shaw, R. and Kotler, P. (2009) Rethinking the Chain, Marketing Management, July/August 2009
+
+Value chain - Porter
+
+https://en.wikipedia.org/wiki/Value_chain
+
+The Competitive Advantage of Nations
+
+value system
+
+Combined Value Chain
+
+
+https://en.wikipedia.org/wiki/Supply_chain_operations_reference
+
+https://www.amazon.com/Supply-Chain-Transformation-Practical-Practice/dp/1118314441
+
+https://www.amazon.com/Supply-Chain-Excellence-Handbook-Improvement/dp/0814437532/ref=pd_lpo_14_t_2/135-1882724-1535937?_encoding=UTF8&pd_rd_i=0814437532&pd_rd_r=317a2afe-1d4c-418d-8367-bacf46f2c05c&pd_rd_w=avCqI&pd_rd_wg=RMGF9&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=4SBVQD308MBP889JWNHG&psc=1&refRID=4SBVQD308MBP889JWNHG
+
+Supply Chain Cost per $1000 revenue
+
+The hierarchy of Supply Chain Metrics
+
+http://webapps.roanoke.edu/businessweb/SEINFORMS%202007%20-%20Proceedings/proc/p070525006.pdf
+
+http://supplychainbigairo.blogspot.com/2016/09/supply-chain-performance-metrics.html
+
+
+## Scale 
+
+1) In terms of data computing
+2) Benfits of scale - investments possibilities 
+
+## Episodes
+
+
+## Posts Classification
+
+3d scatter plot showing or stacked bar chart showing how much of each topic is included in the post.
+
+For example 4 the Episode 1: 40% Economics, 40% Supply Chain & 20% Data Science
+
+### Episode 1 - Customer
+
+Population pyramid: https://rpubs.com/walkerke/pyramids_ggplot2
+
+### Episode 2 - Retailer
+
+### Episode 3 - Wholesaler
+
+### Episode 4 - Producer
+
+
+
