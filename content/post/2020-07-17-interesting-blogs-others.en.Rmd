@@ -1,0 +1,25 @@
+---
+title: 'Interesting blogs & others '
+author: MS
+date: '2020-07-17'
+slug: interesting-blogs-others
+categories:
+  - General
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-07-17T18:56:02Z'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## Blogs
+
+mrdbourke.com
+http://www.supplychaindataanalytics.com/
+https://blog.feedspot.com/supply_chain_management_podcasts/
